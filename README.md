@@ -6,7 +6,7 @@ Este repositório contém implementações de **estruturas de dados fundamentais
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/estrutura-dados-java.git
+   git clone https://github.com/braulefernandes/Estrutura-de-Dados.git
    ```
 
 2. Importe os arquivos em sua IDE Java favorita (IntelliJ, Eclipse, VSCode...).
